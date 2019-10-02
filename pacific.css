@@ -1,5 +1,4 @@
 body {
-    background-color: #FFFFFF;
     color: #666666;
     font-family: Verdana, Arial, san-serif;
 }
@@ -48,7 +47,7 @@ footer {
   margin-right: auto;
   margin-left: auto;
   border: 1px solid black;
-  background-image: none;
+  background-color: #FFFFFF;
 }
 
 html {  
