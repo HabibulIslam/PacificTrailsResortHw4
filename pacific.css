@@ -47,9 +47,11 @@ footer {
   width: 80%;
   margin-right: auto;
   margin-left: auto;
+    border: 1px solid black;
 }
 
 html {  
   margin: 0px;
   background-image: linear-gradient(to bottom, #FFFFFF, #add8e6);
+    border: 1px solid green;
 }
