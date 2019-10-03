@@ -15,7 +15,7 @@ h1 {
     font-family: Georgia, serif;
     line-height: 200%;
     background-image: url("pacific4/sunset.jpg");
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
     background-attachment: fixed;
     background-position: right;
     margin-top: 0px;
