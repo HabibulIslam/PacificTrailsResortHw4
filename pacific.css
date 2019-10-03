@@ -25,11 +25,15 @@ h1 {
 nav {
     background-color: #90C7E3;
     font-weight: bold;
+    padding: 5px;
 }
 
 h2 {
     color: #3399CC;
     font-family: Georgia, serif;   
+}
+h3 {
+   color: #000033; 
 }
 
 dt {
@@ -46,6 +50,7 @@ footer {
     font-size: 0.7em;
     font-style: italic;
     text-align: center;
+    padding: 10px;
 }
 
 #wrapper {
