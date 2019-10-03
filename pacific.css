@@ -1,6 +1,7 @@
 body {
     color: #666666;
     font-family: Verdana, Arial, san-serif;
+    margin-left: 5%;
 }
 
 header {
@@ -53,7 +54,6 @@ footer {
 #wrapper {
   width: 80%;
   margin-right: auto;
-  margin-left: 5%;
   /*border: 1px solid black;*/
   background-color: #FFFFFF;
 }
