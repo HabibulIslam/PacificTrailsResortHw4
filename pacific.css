@@ -18,12 +18,8 @@ h1 {
     line-height: 200%;
     background-image: url("pacific4/sunset.jpg");
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    /*background-position: right;*/
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: 0px;
-    background-position: 100% 100%; 
+    padding-left: 20px;
+    height: 72px;
 }
 
 nav {
