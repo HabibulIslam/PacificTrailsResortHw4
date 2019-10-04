@@ -2,6 +2,7 @@ body {
     background-color: #FFFFFF;
     color: #666666;
     font-family: Verdana, Arial, san-serif;
+    background-image: url("pacific4/background.jpg");
 }
 
 header {
@@ -47,4 +48,8 @@ footer {
   width: 80%;
   margin-right: auto;
   margin-left: auto;
+  background-color: #ffffff;
+  min-width: 720px;
+  max-width: 1024px;
+  box-shadow: 3px 3px;
 }
